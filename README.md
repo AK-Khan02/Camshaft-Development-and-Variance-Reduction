@@ -1,7 +1,7 @@
 # Camshaft Variance Reduction Techniques: An Empirical Investigation Repository
 
 ## Overview
-This repository is dedicated to hosting a series of empirical investigations aimed at exploring and evaluating various techniques for reducing variance in camshaft manufacturing processes. Given the critical role of camshafts in the automotive industry and the significant impact of variance on performance, reliability, and efficiency, our research seeks to provide in-depth analyses and actionable insights into optimization strategies.
+This repository is dedicated to hosting a series of empirical investigations aimed at exploring and evaluating various techniques for reducing variance in camshaft manufacturing processes. Given the critical role of camshafts in the automotive industry and the significant impact of variance on performance, reliability, and efficiency, the research seeks to provide in-depth analyses and actionable insights into optimization strategies.
 
 ## Virtual Process Description
 Our investigations leverage a sophisticated virtual process simulation that models the complexities of camshaft production. This virtual environment is designed to replicate real-world manufacturing conditions, allowing for precise control and observation of various parameters and their effects on process variance. The virtual process encompasses the following key components:
