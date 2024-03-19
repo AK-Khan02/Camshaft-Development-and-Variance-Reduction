@@ -17,7 +17,6 @@ Our investigations leverage a sophisticated virtual process simulation that mode
 ## Repository Contents
 This repository is structured to facilitate easy access to a wealth of information and empirical data on camshaft variance reduction. Key components include:
 
-- **Research Papers**: Peer-reviewed studies and papers detailing the methodologies, findings, and implications of our empirical investigations.
 - **Data Sets**: Raw and processed data sets generated from the virtual process simulations, including measurements of camshaft features, process parameters, and variance reduction outcomes.
 - **Simulation Code**: Source code for the virtual process simulation, allowing for replication of studies or further exploration of variance reduction techniques.
 - **Analysis Tools**: Custom-developed scripts and tools for data analysis, including statistical modeling, variance analysis, and visualization utilities.
