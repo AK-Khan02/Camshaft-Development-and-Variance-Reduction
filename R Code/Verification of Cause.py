@@ -1,5 +1,3 @@
-
-
 verification_data <- data.frame(
   daycount = c(30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30),
   shift = c(3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3),
